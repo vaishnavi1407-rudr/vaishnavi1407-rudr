@@ -1,12 +1,12 @@
-##Hi, I'm Vaishnavi Aglave! 👩‍💻
+Hi, I'm Vaishnavi Aglave! 👩‍💻
 
 📊 Passionate Data Analytics Enthusiast | Problem Solver | Python & Power BI Learner
 ---
 
-##👩‍🎓 About Me
+👩‍🎓 About Me
 
 Hi! I'm Vaishnavi Aglave from India 🇮🇳.
-I have successfully completed my Data Analytics Certification, where I learned:
+I have successfully completed my Data Analytics Certification in Skillovilla platfrom, where I learned:
 
 📌 Excel for data cleaning & analysis
 
@@ -22,7 +22,7 @@ I have successfully completed my Data Analytics Certification, where I learned:
 I love exploring data and creating meaningful insights that help solve real-world business problems.
 
 ---
-##🚀 Skills & Tools
+🚀 Skills & Tools
 
 Programming & Analytics
 
@@ -34,13 +34,13 @@ Statistical Analysis 📊
 
 Data Cleaning & Preprocessing
 
-##Business Intelligence
+Business Intelligence
 
 Power BI – Dashboard Creation
 
 Excel – Pivot Tables, Formulas, Advanced Analysis
 
-##Other Tools
+Other Tools
 
 Git & GitHub 🐙
 
@@ -52,7 +52,7 @@ Problem-Solving Skills 🧩
 
 ---
 
-##📈 GitHub Stats
+
 
 
 
