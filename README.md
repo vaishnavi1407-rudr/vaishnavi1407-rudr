@@ -1,11 +1,11 @@
-Hi, I'm Vaishnavi Aglave! 👩‍💻
+Hi, I'm Vaishnavi Bankar! 👩‍💻
 
 📊 Passionate Data Analytics Enthusiast | Problem Solver | Python & Power BI Learner
 ---
 
 👩‍🎓 About Me
 
-Hi! I'm Vaishnavi Aglave from India 🇮🇳.
+Hi! I'm Vaishnavi Bankar from India 🇮🇳.
 I have successfully completed my Data Analytics Certification in Skillovilla platfrom, where I learned:
 
 📌 Excel for data cleaning & analysis
